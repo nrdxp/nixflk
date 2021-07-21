@@ -1,6 +1,4 @@
 result
-up
-hosts/up-*
 .direnv
 doc/index.html
 
@@ -8,3 +6,5 @@ doc/index.html
 vm
 iso
 doi
+
+pkgs/_sources/.shake*
